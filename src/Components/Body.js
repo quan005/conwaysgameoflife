@@ -259,8 +259,8 @@ class Body extends React.Component {
 
     }
 
-    slideHandler = () => {
-
+    slideHandler = (presetTitle) => {
+        
     }
 
 
