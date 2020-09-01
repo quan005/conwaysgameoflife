@@ -203,6 +203,37 @@ input[type=range]:focus::-ms-fill-lower {
   padding: 15px;
 }
 
+.rules-container {
+  
+}
+.rules-container ul {
+
+}
+.rules-container ul li {
+  text-align: left;
+  margin-bottom: 10px;
+  font-size: 1em;
+  font-weight: 600;
+  color: white;
+}
+
 .title h3 {
   color: #ffaa0b;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-container {
+  padding: 10px 50px;
+  width: 50%;
+}
+.about-container p {
+  font-size: 1em;
+  font-weight: 600;
+  color: white;
 }
